@@ -24,6 +24,10 @@ We actively welcome your pull requests. To make the process as smooth as possibl
 1. Fork the repository and create your branch from `main`. Note that wokring with GitHub wikis requires that you use the "clone this wiki locally" url that can be found under the list of pages at the right of any wiki page.
 2. Open a pull request, providing a clear description of your changes and referencing any related issues.
 
+### Become a member of the team
+
+If you are an ONS collegue and you think you would like to make some more substantial contributions over an extended period of time please get in touch with a member of the [contributing team](https://github.com/orgs/ONSdigital/teams/learning-pathway-data-engineering), Kayla, or Diogo and we can add you to the GitHub team. 
+
 ## License
 
 By contributing to this project, you agree that your contributions will be licensed under
